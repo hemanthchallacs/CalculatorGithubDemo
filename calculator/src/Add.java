@@ -6,7 +6,7 @@ public class Add {
 
     public int adding(int a, int b)
     {
-        return a+b;
+        return (2*a)+(2*b);
     }
 
 }
